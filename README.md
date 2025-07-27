@@ -19,7 +19,7 @@ This project features:
 
 ## 🚀 Live Demo
 
-🌍 [View Live](https://your-live-site-link.com)  
+🌍 [View Live](https://ayush-0915.github.io/Personal-3D-Portfolio/)  
 📸 *(Optional: add screenshot or demo GIF)*
 
 ---
