@@ -13,14 +13,13 @@ This project features:
 - 🧑‍💻 Sections: About Me, Skills, Projects, Contact
 - 🌐 3D animations or effects using CSS/JavaScript
 - 📱 Fully responsive design
-- 📧 Functional contact form (optional)
+- 📧 Functional contact form 
 
 ---
 
 ## 🚀 Live Demo
 
 🌍 [View Live](https://ayush-0915.github.io/Personal-3D-Portfolio/)  
-📸 *(Optional: add screenshot or demo GIF)*
 
 ---
 
